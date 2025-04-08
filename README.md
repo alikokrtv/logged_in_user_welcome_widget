@@ -38,6 +38,4 @@
 
 ---
 
-### 👤 Author / Yazar
-
 **Ali Kök**  
